@@ -26,7 +26,7 @@ Run this command in Colab to locate your GoPro clips:
 ```
 
 
-###Required Python packages
+### Required Python packages
 The notebook is tested with:
 
 numpy==1.26.4
