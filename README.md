@@ -35,6 +35,12 @@
 
 ---
 
+## 📥 Output Download
+
+The project outputs are packaged as a ZIP file. Since the file size exceeds GitHub's upload limits, it is hosted on Google Drive. You can download all results using the link below:
+
+🔗 [Download Results ZIP](https://drive.google.com/drive/folders/1zIdMqNU_ivbKgSRdr-oXbjRT7R4h111Q?usp=drive_link)
+
 ## Video folder setup
 
 ### Google Colab
