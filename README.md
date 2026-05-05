@@ -2,7 +2,7 @@
 
 ## How to Run
 
-1. Open `cricket_ball_detection_m53.ipynb` in Google Colab.
+1. Open `cricket_ball_detection.ipynb` in Google Colab.
 2. Set runtime to T4 GPU:
    - `Runtime > Change runtime type`
    - CPU also works, but is significantly slower for optical flow and Hough processing.
